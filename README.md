@@ -1,4 +1,4 @@
-# Inverse-Kinematics
+# Inverse Kinematics of a SCARA - PRR Variant 2 Manipulator
 
 ### Simple Calculator for obtaining Inverse Kinematics of SCARA PRR Variant 2 Manipulator
 
